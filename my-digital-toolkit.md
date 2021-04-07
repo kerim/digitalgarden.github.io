@@ -53,6 +53,6 @@ Collaborative Task Manager: [Todoist](https://todoist.com)
 
 ## 1 Reference
 
-- [Home](/)
+- [Home](/digitalgarden/)
 
 </div>

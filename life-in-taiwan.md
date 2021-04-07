@@ -20,6 +20,6 @@ This is a collection of resources to help people living in Taiwan or just visiti
 
 ## 1 Reference
 
-- [Home](/)
+- [Home](/digitalgarden/)
 
 </div>

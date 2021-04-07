@@ -28,6 +28,6 @@ Blogs
 
 ## 1 Reference
 
-- [Life in Taiwan](/life-in-taiwan)
+- [Life in Taiwan](/digitalgarden/life-in-taiwan)
 
 </div>

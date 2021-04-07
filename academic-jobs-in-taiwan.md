@@ -22,6 +22,6 @@ Resources for those looking for academic jobs in Taiwan. (This page is focused o
 
 ## 1 Reference
 
-- [Life in Taiwan](/life-in-taiwan)
+- [Life in Taiwan](/digitalgarden/life-in-taiwan)
 
 </div>

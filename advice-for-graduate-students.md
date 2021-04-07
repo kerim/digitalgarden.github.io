@@ -28,6 +28,6 @@ Charles Tilly’s PPT “[selecting a dissertation topic](https://www.slideserve
 
 ## 1 Reference
 
-- [Home](/)
+- [Home](/digitalgarden/)
 
 </div>

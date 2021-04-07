@@ -20,6 +20,6 @@ I've battled with chronic hip pain for years, here are some resources that were 
 
 ## 1 Reference
 
-- [Home](/)
+- [Home](/digitalgarden/)
 
 </div>
