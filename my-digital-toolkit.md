@@ -4,8 +4,6 @@ date: 2021-03-14T11:13:54.170000
 
 ---
 
-# My Digital Toolkit
-
 ## Writing
 
 New and Temporary Notes: [Drafts](https://getdrafts.com/)
