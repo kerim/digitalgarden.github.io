@@ -41,7 +41,7 @@ News Sites
 
 Online Journals
 
-* [New Bloom Magazine | Radical Perspectives on Taiwan and the Asia Pacific](https://newbloommag.net/)
+* [New Bloom Magazine - Radical Perspectives on Taiwan and the Asia Pacific](https://newbloommag.net/)
 * [The Taiwan Gazette](https://www.taiwangazette.org/)
 
 Blogs

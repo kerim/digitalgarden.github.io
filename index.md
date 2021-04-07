@@ -20,7 +20,7 @@ Welcome to the [digital garden](https://maggieappleton.com/garden-history) of [P
 
 ## How to use this site:
 
-Links surrounded by double brackets `<span class="roam-page">[[[` `]]]()</span>` go to pages on this site, all other links will take you elsewhere. 
+Links surrounded by double brackets go to pages on this site, all other links will take you elsewhere. 
 
 At the bottom of each page is a section titled "References" that shows other pages on this site which link to that page.
 
