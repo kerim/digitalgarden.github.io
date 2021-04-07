@@ -4,7 +4,7 @@ date: 2021-03-14T10:49:53.255000
 
 ---
 
-# Advice for graduate students
+Useful how-to guides for graduate students in the social sciences.
 
 ## Getting into graduate school
 
@@ -30,6 +30,6 @@ Charles Tilly’s PPT “[selecting a dissertation topic](http://www.ssrc.org/es
 
 ## 1 Reference
 
-- [Home](/digitalgarden/)
+- [Home](/)
 
 </div>

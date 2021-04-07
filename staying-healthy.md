@@ -4,12 +4,22 @@ date: 2021-03-14T10:50:23.564000
 
 ---
 
-Nothing here yet...
+I've battled with chronic hip pain for years, here are some resources that were useful for me.
+
+## My favorite health and fitness related YouTube channels:
+
+[Bob & Brad](https://www.youtube.com/user/physicaltherapyvideo)
+
+[Squat University](https://www.youtube.com/channel/UCyPYQTT20IgzVw92LDvtClw)
+
+[ATHLEAN-X™](https://www.youtube.com/user/JDCav24)
+
+[Upright Health](https://www.youtube.com/user/UprightHealth)
 
 <div markdown="1" class="roam-backrefs">
 
 ## 1 Reference
 
-- [Home](/digitalgarden/)
+- [Home](/)
 
 </div>
