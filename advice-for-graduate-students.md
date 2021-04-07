@@ -16,11 +16,9 @@ Something I wrote on picking a [graduate program in anthropology](http://savagem
 
 [What you’ll wish you’d known](http://www.paulgraham.com/hs.html).
 
-[How to write a resume](http://www.mahalo.com/How_to_write_a_resume).
-
 ## Advice for those in graduate school
 
-Charles Tilly’s PPT “[selecting a dissertation topic](http://www.ssrc.org/essays/tilly/wp-content/uploads/2008/05/tilly-selecting-dissertation-topic.ppt)“
+Charles Tilly’s PPT “[selecting a dissertation topic](https://www.slideserve.com/wardah/graphical-reproduction-based-on-a-conceptual-illustration-by-charles-tilly-2006)“
 
 [The Art of Writing Proposals](http://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/)
 
