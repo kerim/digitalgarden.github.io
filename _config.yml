@@ -1,9 +1,27 @@
-remote_theme: kerim/millidocs
+remote_theme: kerim/jekyll-serif-theme
 
-title: Kerim's Digital Garden
+title: 'Kerim's Digital Garde
 description: Growing ideas
 url: "https://kerim.oxus.net/digitalgarden/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/digitalgarden/'
 
+
+homepage:
+  show_call_box: false
+
+logo:
+
+footer:
+  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+
+
+collections:
+  services:
+    output: true
+  team:
+    output: true
+    
+    
 sass:
   sass_dir: _sass
   style: compressed
