@@ -2,9 +2,6 @@
 title: "Home"
 date: 2021-03-14T10:33:49.875000
 layout: article
-title: Page - Sidebar
-sidebar:
-  nav: layouts
 ---
 
 ---
