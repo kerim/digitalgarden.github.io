@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2021-03-14T10:33:49.875000
-layout: home
+layout: default
 ---
 
 # Kerim's Digital Garden
