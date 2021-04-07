@@ -1,7 +1,12 @@
 ---
 title: "Home"
 date: 2021-03-14T10:33:49.875000
-navigation: "1"
+layout: article
+title: Page - Sidebar
+sidebar:
+  nav: layouts
+---
+
 ---
 
 # Kerim's Digital Garden
