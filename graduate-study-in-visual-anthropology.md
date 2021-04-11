@@ -21,22 +21,19 @@ Things are much more complicated, however, if you want to be a producer and prac
 
 ## Producing Visual Ethnography
 
-There are basically five paths you can take if your main interest in visual anthropology is a desire to become an ethnographic filmmaker. (Note 1: some of these paths can be combined. Note 2: I'm just going to focus on filmmaking, but some of the advice is generalizable to other kinds of multimodal ethnography.)
+There are basically five paths you can take if your main interest in visual anthropology is a desire to become an ethnographic filmmaker. 
 
-* 1. The holy grail: a graduate degree in anthropology based (at least in part) on a visual work
+Note 1: some of these paths can be combined. 
+
+Note 2: I'm just going to focus on filmmaking, but some of the advice is generalizable to other kinds of multimodal ethnography.
+
+* (1)The holy grail: a graduate degree in anthropology based (at least in part) on a visual work
 
   - See this 2017 special issue of the Nordic Anthropological Film Association  newsletter devoted to MA programs in Visual Anthropology around the world:  [PDF]()https://nafa.uib.no/?q=system/files/newsletters/nafa-network_vol_24_1_march_2017.pdf)
-* 2. Get a graduate degree in anthropology that is not based on a visual work, but you make a film at the same time as you do your research, relying on previous training or seeking training outside 
-* 3. Attend a short-term program focused on filmmaking from an anthropological perspective.
+* (2)Get a graduate degree in anthropology that is not based on a visual work, but you make a film at the same time as you do your research, relying on previous training or seeking training outside 
+* (3) Attend a short-term program focused on filmmaking from an anthropological perspective.
 
   - There is a good one at the [Granada Centre for Visual Anthropology](http://granadacentre.co.uk/).  
-* 4. Go to film school and study anthropology on the side.
-* 5. Just go and work in industry, developing your talents without attending school. Read anthropology. Talk and collaborate with anthropologists.  
+* (4) Go to film school and study anthropology on the side.
+* (5) Just go and work in industry, developing your talents without attending school. Read anthropology. Talk and collaborate with anthropologists.  
 
-<div markdown="1" class="roam-backrefs">
-
-## 1 Reference
-
-- [Advice for graduate students](/digitalgarden/advice-for-graduate-students)
-
-</div>
