@@ -27,10 +27,10 @@ Note 1: some of these paths can be combined.
 
 Note 2: I'm just going to focus on filmmaking, but some of the advice is generalizable to other kinds of multimodal ethnography.
 
-* (1)The holy grail: a graduate degree in anthropology based (at least in part) on a visual work
+* (1) The holy grail: a graduate degree in anthropology based (at least in part) on a visual work
 
-  - See this 2017 special issue of the Nordic Anthropological Film Association  newsletter devoted to MA programs in Visual Anthropology around the world:  [PDF]()https://nafa.uib.no/?q=system/files/newsletters/nafa-network_vol_24_1_march_2017.pdf)
-* (2)Get a graduate degree in anthropology that is not based on a visual work, but you make a film at the same time as you do your research, relying on previous training or seeking training outside 
+  - See this 2017 special issue of the Nordic Anthropological Film Association  newsletter devoted to MA programs in Visual Anthropology around the world:  [PDF](https://nafa.uib.no/?q=system/files/newsletters/nafa-network_vol_24_1_march_2017.pdf)
+* (2) Get a graduate degree in anthropology that is not based on a visual work, but you make a film at the same time as you do your research, relying on previous training or seeking training outside 
 * (3) Attend a short-term program focused on filmmaking from an anthropological perspective.
 
   - There is a good one at the [Granada Centre for Visual Anthropology](http://granadacentre.co.uk/).  
