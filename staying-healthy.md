@@ -16,6 +16,10 @@ I've battled with chronic hip pain for years, here are some resources that were 
 
 [Upright Health](https://www.youtube.com/user/UprightHealth)
 
+## Topic Pages
+
+<span class="roam-page">[[[Managing Hip Pain]]](managing-hip-pain)</span>
+
 <div markdown="1" class="roam-backrefs">
 
 ## 1 Reference

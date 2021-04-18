@@ -37,3 +37,10 @@ Note 2: I'm just going to focus on filmmaking, but some of the advice is general
 * (4) Go to film school and study anthropology on the side.
 * (5) Just go and work in industry, developing your talents without attending school. Read anthropology. Talk and collaborate with anthropologists.  
 
+<div markdown="1" class="roam-backrefs">
+
+## 1 Reference
+
+- [Advice for graduate students](/digitalgarden/advice-for-graduate-students)
+
+</div>
