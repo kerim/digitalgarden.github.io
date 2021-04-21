@@ -14,7 +14,7 @@ Hip pain can manifest in many different ways: groin, lower back, hip joint, groi
 
 ### Hip Flexor Strain or Hip Impingement?
 
-{{<span class="roam-page">[[[video]]](video)</span>: https://youtu.be/ueeGt9ESkNE}}
+<figure class="roam-video"><iframe class="roam-iframe" src="https://www.youtube.com/embed/ueeGt9ESkNE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></figure>
 
 {{<span class="roam-page">[[[video]]](video)</span>: https://youtu.be/-EpPq4-lDaw}}
 

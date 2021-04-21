@@ -18,6 +18,8 @@ Welcome to the [digital garden](https://maggieappleton.com/garden-history) of [P
 
 <span class="roam-page">[[[Life in Taiwan]]](life-in-taiwan)</span>
 
+<span class="roam-page">[[[Intro to Indigenous Taiwan]]](intro-to-indigenous-taiwan)</span>
+
 ## How to use this site:
 
 Links surrounded by double brackets go to pages on this site, all other links will take you elsewhere. 
