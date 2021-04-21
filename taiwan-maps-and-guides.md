@@ -20,8 +20,9 @@ Guide books for traveling in Indigenous Areas by Cheryl Robbins, the founder of 
 
 <div markdown="1" class="roam-backrefs">
 
-## 1 Reference
+## 2 References
 
 - [Life in Taiwan](/digitalgarden/life-in-taiwan)
+- [Intro to Indigenous Taiwan](/digitalgarden/intro-to-indigenous-taiwan)
 
 </div>
