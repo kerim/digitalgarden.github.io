@@ -16,13 +16,15 @@ Fulbright now offers funding for several MA programs in Taiwan. Although Fulbrig
 
 [National Tsing Hua University Award in Austronesian Studies](https://www.fulbright.org.tw/nthu-masters-degree-program-grants/)
 
+[NCCU MA program in Asia-Pacific Studies](https://www.fulbright.org.tw/nccu-masters-degree-program-grants/).
+
 ## Other programs
 
 [PhD program in Asia-Pacific Regional Studies at NDHU](https://aprs.ndhu.edu.tw/p/412-1139-84.php?Lang=zh-tw)
 
 [Master's Program on Natural Resources and Environmental Studies at NDHU](https://ces.ndhu.edu.tw/files/11-1020-11672.php)
 
-[NCCU International Doctoral and Masters Programs in Asia-Pacific Studies](https://internationalprograms.nccu.edu.tw/)
+[NCCU International Doctoral Program in Asia-Pacific Studies](https://internationalprograms.nccu.edu.tw/home-idas/)
 
 [National Yang-Ming Chiao-Tung University International Institute for Cultural Studies](https://iics.nctu.edu.tw/en/intro/Introduction)
 
