@@ -12,7 +12,7 @@ Fulbright now offers funding for several MA programs in Taiwan. Although Fulbrig
 
 [NDHU Master’s Degree Program in Ethnic Relations and Cultures ](https://www.fulbright.org.tw/ndhu-masters-degree-program-grants/)
 
-* This program is Chinese taught, but intermediate-to-advanced learners of Chinese should be able to manage as most homework and you MA thesis can be submitted in English.
+* This program is Chinese taught, but intermediate-to-advanced learners of Chinese should be able to manage as most homework and you MA thesis can be submitted in English. Additionally, the Fulbright will fund a year of intensive Chinese study at NDHU before you start classes.
 
 [National Tsing Hua University Award in Austronesian Studies](https://www.fulbright.org.tw/nthu-masters-degree-program-grants/)
 
