@@ -12,6 +12,8 @@ This is a collection of resources to help people living in Taiwan or just visiti
 
 <span class="roam-page">[[[English Language News on Taiwan]]](english-language-news-on-taiwan)</span>
 
+<span class="roam-page">[[[International Graduate Study in Taiwan]]](international-graduate-study-in-taiwan)</span> (with a focus on Austronesian/Indigenous studies)
+
 ## Unsorted links
 
 [How I Became Taiwanese (While Remaining American)](https://keywords.oxus.net/archives/2019/09/07/how-i-became-taiwanese-while-remaining-american)

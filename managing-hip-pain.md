@@ -20,7 +20,7 @@ Hip pain can manifest in many different ways: groin, lower back, hip joint, groi
 
 ### Which Kind of Groin Pain?
 
-https://youtu.be/q0g2sf6MJlY
+<figure class="roam-video"><iframe class="roam-iframe" src="https://www.youtube.com/embed/q0g2sf6MJlY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></figure>
 
 [What Kind of Groin Pain Do You Have?](https://squatuniversity.com/2017/09/22/what-kind-of-groin-pain-do-you-have/)
 
