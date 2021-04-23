@@ -40,20 +40,20 @@ The Japanese era:
 Pingpu (Plain Indigenous Peoples)
 
 * Brown, Melissa J. 2004. _Is Taiwan Chinese?: The Impact of Culture, Power, and Migration on Changing Identities_. Berkeley: University of California Press.
-* Hsieh, Jolan. 2006. Collective Rights of Indigenous Peoples : Identity-Based Movement of Plain Indigenous in Taiwan. New York: Routledge.
+* Hsieh, Jolan. 2006. _Collective Rights of Indigenous Peoples : Identity-Based Movement of Plain Indigenous in Taiwan_. New York: Routledge.
 
 Headhunting
 
 * Simon, Scott. 2012. “Politics and Headhunting among the Formosan Sejiq: Ethnohistorical Perspectives.” _Oceania; a Journal Devoted to the Study of the Native Peoples of Australia, New Guinea, and the Islands of the Pacific_ 82 (2): 164–85.
 
-Contemporary Politics and Identity
+Contemporary Politics
 
 * Simon, Scott. 2010. “Negotiating Power: Elections and the Constitution of Indigenous Taiwan.” _American Ethnologist_ 37 (4): 726–40.
 * Simon, Scott, and Awi (Chi Wei-Tsai) Mona. 2012. “Human Rights and Indigenous Self-Government: The Taiwanese Experience.” In _Human Rights and the Third World: Issues and Discourses_, edited by Subrata Sankar Bagchi and Arnab Das, 99–122. Lanham, MD: Lexington Books.
 * Ku, Kun-Hui. 2012. “Rights to Recognition: Minorities and Indigenous Politics in Emerging Taiwan Nationalism.” In _Taiwan Since Martial Law: Society, Culture, Politics, Economy,_ edited by David Blundell, 91–129. Shung Ye Museum of Formosan Aborigines, University of California, Berkeley & National Taiwan University Press.
 * Simon, Scott. 2020. “Yearning for Recognition: Indigenous Formosans and the Limits of Indigeneity.” _International Journal of Taiwan Studies_ 3 (2): 191–216.
 
-Cultural revival
+Culture and Identity
 
 * Friedman, P. Kerim. 2018. “The Hegemony of the Local: Taiwanese Multiculturalism and Indigenous Identity Politics.” _Boundary 2_ 45 (3): 79–105. ([Preprint](https://www.researchgate.net/publication/347945759_The_Hegemony_of_the_Local_Taiwanese_Multiculturalism_and_Indigenous_Identity_Politics_Preprint).)
 * Rudolph, Michael. 2008. _Ritual Performances as Authenticating Practices: Cultural Representations of Taiwan’s Aborigines in Times of Political Change_. LIT Verlag Münster.
