@@ -12,11 +12,11 @@ Note: Fulbright now offers funding for several MA programs in Taiwan. Although F
 
 [NDHU Master’s Degree Program in Ethnic Relations and Cultures](https://rc025.ndhu.edu.tw/index.php) 
 
-* This program is Chinese taught, but intermediate-to-advanced learners of Chinese should be able to manage as most homework and you MA thesis can be submitted in English. Additionally, the Fulbright will fund a year of intensive Chinese study at NDHU before you start classes.
+* This program is Chinese taught, but intermediate-to-advanced learners of Chinese should be able to manage as most homework and you MA thesis can be submitted in English. Additionally, students who apply via Fulbright will receive a year of intensive Chinese study at NDHU before you start classes.
 * This program is located within the College of Indigenous Studies, a program specifically set up for Indigenous students and scholarship on Indigenous issues.
 * [Apply via Fulbright ](https://www.fulbright.org.tw/ndhu-masters-degree-program-grants/)
 
-[National Tsing Hua University Award in Austronesian Studies](https://anth.site.nthu.edu.tw/p/412-1394-17123.php)
+[National Tsing Hua University MA in Austronesian Studies](https://anth.site.nthu.edu.tw/p/412-1394-17123.php)
 
 * This program is located within one of the top anthropology programs in Taiwan.
 * [Apply via Fulbright](https://www.fulbright.org.tw/nthu-masters-degree-program-grants/)
