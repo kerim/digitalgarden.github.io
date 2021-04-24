@@ -34,6 +34,10 @@ Note: Fulbright now offers funding for several MA programs in Taiwan. Although F
 
 * Some of the courses in this program are co-taught by faculty from the Program in Ethnic Relations and Cultures, and several faculty members in environmental studies are working closely with Indigenous communities.
 
+[International Master’s Program in Inter-Asia Cultural Studies, University System of Taiwan](https://iics.nctu.edu.tw/en/Academics/admission)
+
+* One of the best cultural studies programs in Taiwan, and open to students working on Indigenous issues.
+
 ## PhD Programs
 
 [PhD program in Asia-Pacific Regional Studies at NDHU](https://aprs.ndhu.edu.tw/p/412-1139-84.php?Lang=zh-tw)
@@ -48,7 +52,7 @@ Note: Fulbright now offers funding for several MA programs in Taiwan. Although F
 
 The International Graduate Student Exchange Program at the [National Yang-Ming Chiao-Tung University International Institute for Cultural Studies](https://iics.nctu.edu.tw/en/intro/Introduction)
 
-* One of the best cultural studies programs in Taiwan, and open to students working on Indigenous issues.
+* Same as the program listed for the MA program at the "University System of Taiwan" above, but a shorter term scholarship.
 
 <div markdown="1" class="roam-backrefs">
 
