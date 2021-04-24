@@ -4,6 +4,8 @@ date: 2021-04-23T10:55:16.832000
 
 ---
 
+## (With a focus on Austronesian/Indigenous studies.)
+
 There are an increasing number of international graduate programs opening up in Taiwan, and many of these are focused around Austronesian studies. Here are some that I've found, including at my own university, NDHU in Hualien. All the programs on this page are English-taught, unless otherwise specified.
 
 ## MA Programs
