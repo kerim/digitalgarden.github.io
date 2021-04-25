@@ -8,8 +8,6 @@ date: 2021-04-23T10:55:16.832000
 
 There are an increasing number of international graduate programs opening up in Taiwan, and many of these are focused around Austronesian studies. Here are some that I've found, including at my own university, NDHU in Hualien. All the programs on this page are English-taught, unless otherwise specified.
 
-(For advice on selecting graduate schools and getting into graduate school, see my page: <span class="roam-page">[[[Advice for graduate students]]](advice-for-graduate-students)</span>.)
-
 ## MA Programs
 
 Note: Fulbright now offers funding for several MA programs in Taiwan. Although Fulbright awards are limited, it is also possible to apply directly to these programs, and other sources of funding may be possible. I have listed Fulbright information where available.
@@ -54,10 +52,17 @@ The International Graduate Student Exchange Program at the [National Yang-Ming C
 
 * Same as the program listed for the MA program at the "University System of Taiwan" above, but a shorter term scholarship.
 
+## Related Pages:
+
+If you are new to Indigenous Taiwanese studies, you might want to take a look at my page, <span class="roam-page">[[[Intro to Indigenous Taiwan]]](intro-to-indigenous-taiwan)</span>, which has some resources to help you get started.
+
+For advice on selecting graduate schools and getting into graduate school, see my page: <span class="roam-page">[[[Advice for graduate students]]](advice-for-graduate-students)</span>.
+
 <div markdown="1" class="roam-backrefs">
 
-## 1 Reference
+## 2 References
 
 - [Life in Taiwan](/digitalgarden/life-in-taiwan)
+- [Advice for graduate students](/digitalgarden/advice-for-graduate-students)
 
 </div>
