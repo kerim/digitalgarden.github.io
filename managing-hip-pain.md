@@ -8,25 +8,24 @@ For years I've struggled with hip pain. Like the story of the blind men and the 
 
 I'm not a doctor, and my problem may be different from yours, but on these pages I hope to share what I learned about diagnosing, managing, and even treating hip problems.
 
-## Diagnosis
+## Sections
 
-Hip pain can manifest in many different ways: groin, lower back, hip joint, groin, hip flexors, even further away, such as the knee or the neck and shoulder, etc. I will focus here on the issues closest to my own case:
+<span class="roam-page">[[[Diagnosing your hip pain]]](diagnosing-your-hip-pain)</span>
 
-### Hip Flexor Strain or Hip Impingement?
+Treating hip pain
 
-<figure class="roam-video"><iframe class="roam-iframe" src="https://www.youtube.com/embed/ueeGt9ESkNE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></figure>
+* Lifestyle: standing or sitting?
+* Stretches  
+* Exercises
 
-<figure class="roam-video"><iframe class="roam-iframe" src="https://www.youtube.com/embed/-EpPq4-lDaw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></figure>
+  - Hip Flexors
+  - Groin
+  - Glutes
+  - Core
 
-### Which Kind of Groin Pain?
+Quick fixes
 
-<figure class="roam-video"><iframe class="roam-iframe" src="https://www.youtube.com/embed/q0g2sf6MJlY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></figure>
-
-[What Kind of Groin Pain Do You Have?](https://squatuniversity.com/2017/09/22/what-kind-of-groin-pain-do-you-have/)
-
-### Piriformis Syndrome?
-
-[How many syndromes can a buttock have?](https://dralisongrimaldi.com/blog/how-many-syndromes-can-a-buttock-have/)
+* Better sleep
 
 <div markdown="1" class="roam-backrefs">
 
