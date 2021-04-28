@@ -22,8 +22,9 @@ I've battled with chronic hip pain for years, here are some resources that were 
 
 <div markdown="1" class="roam-backrefs">
 
-## 1 Reference
+## 2 References
 
+- [Managing Hip Pain](/digitalgarden/managing-hip-pain)
 - [Home](/digitalgarden/)
 
 </div>
