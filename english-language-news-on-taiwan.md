@@ -9,21 +9,21 @@ date: 2021-04-07T11:40:23.757000
 News
 
 * [Taipei Times](http://www.taipeitimes.com/)
-* [Focus Taiwan - CNA English News](https://focustaiwan.tw/)
+* [Focus Taiwan](https://focustaiwan.tw/) - CNA English News
 * [Taiwan Today](https://www.taiwantoday.tw/index.php) - Taiwan Ministry of Foreign Affairs 
 
-Journals and Organization Blogs
+Journals
 
-* [The News Lens International Edition - Bilingual News & Voices from Taiwan](https://international.thenewslens.com/)
+* [The News Lens](https://international.thenewslens.com/)
 * [CommonWealth Magazine](https://english.cw.com.tw/subchannel.action?idSubChannel=14)
-* [New Bloom Magazine - Radical Perspectives on Taiwan and the Asia Pacific](https://newbloommag.net/)
+* [New Bloom Magazine](https://newbloommag.net/)
 * [Ketagalan Media](https://ketagalanmedia.com/)
 
 Organization Blogs
 
-* [Taiwan Business](https://topics.amcham.com.tw/) - the American Chamber of Commerce in Taiwan
+* [Taiwan Business](https://topics.amcham.com.tw/) - American Chamber of Commerce
 * [台灣世代Blog](https://en.taiwannextgenfoundation.org/blog) - Taiwan NextGen Foundation
-* [Taiwan Insight – The online magazine of the Taiwan Studies Programme](https://taiwaninsight.org/) ()University of Nottingham)
+* [Taiwan Insight](https://taiwaninsight.org/) - University of Nottingham
 
 Personal Blogs
 
