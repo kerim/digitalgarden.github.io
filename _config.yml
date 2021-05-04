@@ -6,6 +6,7 @@ email:       kerim.mail@oxus.net
 author:      Kerim Friedman
 description: "Growing ideas since 2021."
 url:         "https://kerim.oxus.net/digitalgarden/"
+baseurl:     ""
 
 show_excerpts: false # set to true to show excerpts on the homepage
   
