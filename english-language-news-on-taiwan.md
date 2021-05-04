@@ -6,23 +6,39 @@ date: 2021-04-07T11:40:23.757000
 
 ## A list of English language news, journals, and blogs about Taiwan 
 
-News Sites
+News
 
-* [CommonWealth Magazine](https://english.cw.com.tw/subchannel.action?idSubChannel=14)
-* [The News Lens International Edition - Bilingual News & Voices from Taiwan](https://international.thenewslens.com/)
 * [Taipei Times](http://www.taipeitimes.com/)
 * [Focus Taiwan - CNA English News](https://focustaiwan.tw/)
+* [Taiwan Today](https://www.taiwantoday.tw/index.php) - Taiwan Ministry of Foreign Affairs 
 
-Online Journals
+Journals and Organization Blogs
 
+* [The News Lens International Edition - Bilingual News & Voices from Taiwan](https://international.thenewslens.com/)
+* [CommonWealth Magazine](https://english.cw.com.tw/subchannel.action?idSubChannel=14)
 * [New Bloom Magazine - Radical Perspectives on Taiwan and the Asia Pacific](https://newbloommag.net/)
-* [The Taiwan Gazette](https://www.taiwangazette.org/)
+* [Ketagalan Media](https://ketagalanmedia.com/)
 
-Blogs
+Organization Blogs
 
-* [Taiwan Report News Brief - Taiwan Report](https://report.tw/)
+* [Taiwan Business](https://topics.amcham.com.tw/) - the American Chamber of Commerce in Taiwan
+* [台灣世代Blog](https://en.taiwannextgenfoundation.org/blog) - Taiwan NextGen Foundation
+* [Taiwan Insight – The online magazine of the Taiwan Studies Programme](https://taiwaninsight.org/) ()University of Nottingham)
+
+Personal Blogs
+
 * [Michael Turton - The View from Taiwan](https://report.tw/michaelturton/)
 * [Lao Ren Cha - 老人茶](https://laorencha.blogspot.com/)
+
+Cultural Criticism
+
+* [No Man Is An Island](https://nomanisanis.land/) 
+
+Translations and Roundups
+
+* [The Taiwan Gazette](https://www.taiwangazette.org/) - translations 
+* [Taiwan Report News Brief](https://report.tw/) - roundups
+* [Taiwan Mixed](https://www.taiwanmixed.org/) - roundups 
 
 <div markdown="1" class="roam-backrefs">
 
