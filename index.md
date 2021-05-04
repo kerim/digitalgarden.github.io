@@ -6,7 +6,7 @@ layout: home
 
 # Kerim's Digital Garden
 
-Welcome to [Kerim's](http://kerim.oxus.net/) digital garden! This is basically a personal wikipedia where I can publish notes on a variety of topics of interest to me. [Digital gardens are nearly as old as the internet](https://maggieappleton.com/garden-history). This one is the public face of my personal notes, which are stored in [Roam Research](https://roamresearch.com/).
+Welcome to the [digital garden](https://maggieappleton.com/garden-history) of [P. Kerim Friedman](http://kerim.oxus.net/), a Taiwan-based anthropologist.
 
 ## Topics:
 
@@ -15,4 +15,14 @@ Welcome to [Kerim's](http://kerim.oxus.net/) digital garden! This is basically a
 <span class="roam-page">[[[My digital toolkit]]](my-digital-toolkit)</span>
 
 <span class="roam-page">[[[Staying healthy]]](staying-healthy)</span>
+
+<span class="roam-page">[[[Life in Taiwan]]](life-in-taiwan)</span>
+
+<span class="roam-page">[[[Intro to Indigenous Taiwan]]](intro-to-indigenous-taiwan)</span>
+
+## How to use this site:
+
+Links surrounded by double brackets go to pages on this site, all other links will take you elsewhere. 
+
+At the bottom of each page is a section titled "References" that shows other pages on this site which link to that page.
 

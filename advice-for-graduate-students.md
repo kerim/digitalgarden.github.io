@@ -4,7 +4,7 @@ date: 2021-03-14T10:49:53.255000
 
 ---
 
-# Advice for graduate students
+Useful how-to guides for graduate students in the social sciences.
 
 ## Getting into graduate school
 
@@ -16,20 +16,25 @@ Something I wrote on picking a [graduate program in anthropology](http://savagem
 
 [What you’ll wish you’d known](http://www.paulgraham.com/hs.html).
 
-[How to write a resume](http://www.mahalo.com/How_to_write_a_resume).
-
 ## Advice for those in graduate school
 
-Charles Tilly’s PPT “[selecting a dissertation topic](http://www.ssrc.org/essays/tilly/wp-content/uploads/2008/05/tilly-selecting-dissertation-topic.ppt)“
+Charles Tilly’s PPT “[selecting a dissertation topic](https://www.slideserve.com/wardah/graphical-reproduction-based-on-a-conceptual-illustration-by-charles-tilly-2006)“
 
 [The Art of Writing Proposals](http://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/)
 
 [Writing Grant Proposals for Anthropological Research](http://www.wennergren.org/news/advice-how-write-a-grant-proposal)
 
+## Related Topic pages
+
+<span class="roam-page">[[[Graduate study in visual anthropology]]](graduate-study-in-visual-anthropology)</span>
+
+<span class="roam-page">[[[International Graduate Study in Taiwan]]](international-graduate-study-in-taiwan)</span>
+
 <div markdown="1" class="roam-backrefs">
 
-## 1 Reference
+## 2 References
 
+- [International Graduate Study in Taiwan](/digitalgarden/international-graduate-study-in-taiwan)
 - [Home](/digitalgarden/)
 
 </div>
