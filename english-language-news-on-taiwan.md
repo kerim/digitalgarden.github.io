@@ -29,6 +29,8 @@ Personal Blogs
 
 * [Michael Turton - The View from Taiwan](https://report.tw/michaelturton/)
 * [Lao Ren Cha - 老人茶](https://laorencha.blogspot.com/)
+* [Frozen Garlic - A Blog on Elections in Taiwan](https://frozengarlic.wordpress.com/)
+* [A longer list of blogs from Foreigners in Taiwan](https://www.foreignersintaiwan.com/blog-370963385326684/blogroll), including food, culture, and travel blogs not listed here.
 
 Cultural Criticism
 
