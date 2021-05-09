@@ -12,6 +12,8 @@ Welcome to the [digital garden](https://maggieappleton.com/garden-history) of [P
 
 <span class="roam-page">[[[Advice for graduate students]]](advice-for-graduate-students)</span>
 
+<span class="roam-page">[[[Advice for college students]]](advice-for-college-students)</span>
+
 <span class="roam-page">[[[My digital toolkit]]](my-digital-toolkit)</span>
 
 <span class="roam-page">[[[Staying healthy]]](staying-healthy)</span>

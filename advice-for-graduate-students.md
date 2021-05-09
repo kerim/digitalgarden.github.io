@@ -4,7 +4,7 @@ date: 2021-03-14T10:49:53.255000
 
 ---
 
-Useful how-to guides for graduate students in the social sciences.
+Useful how-to guides for graduate students in the social sciences. Also see <span class="roam-page">[[[Advice for college students]]](advice-for-college-students)</span>.
 
 ## Getting into graduate school
 
@@ -32,8 +32,9 @@ Charles Tilly’s PPT “[selecting a dissertation topic](https://www.slideserve
 
 <div markdown="1" class="roam-backrefs">
 
-## 2 References
+## 3 References
 
+- [Advice for college students](/digitalgarden/advice-for-college-students)
 - [International Graduate Study in Taiwan](/digitalgarden/international-graduate-study-in-taiwan)
 - [Home](/digitalgarden/)
 
