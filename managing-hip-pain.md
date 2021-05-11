@@ -16,7 +16,7 @@ Proceed with caution and at your own risk!
 
 * It is very hard to identify the true cause of your problem. This is why the adage "listen to your body" is useless. A pain in your knee might originate in your hip, and vice-versa. (Hip pain can show up in the lower back, shoulders, groin, etc.) Also, it is not uncommon for stiffness or weakness in one area to be masking stiffness and weakness in another, so as you improve one area the other might initially get worse. To get to the bottom of it you need to test and re-test regularly! Ideally you should work with a trained therapist, but if that isn't an option, these videos show you some of the tests that a therapist might do when evaluating you.
 
-Causes for hip pain
+<span class="roam-page">[[[Causes for hip pain]]](causes-for-hip-pain)</span>
 
 * Even if you manage to find exercises and stretches that relieve your symptoms, it is not unlikely that aspects of your lifestyle could continue to re-injure you if you don't make changes. In this section I try to sort out some of the latest advice about  things like standing vs. sitting, etc.
 
