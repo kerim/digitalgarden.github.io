@@ -18,15 +18,15 @@ Proceed with caution and at your own risk!
 
 <span class="roam-page">[[[Causes for hip pain]]](causes-for-hip-pain)</span>
 
-* Even if you manage to find exercises and stretches that relieve your symptoms, it is not unlikely that aspects of your lifestyle could continue to re-injure you if you don't make changes. In this section I try to sort out some of the latest advice about  things like standing vs. sitting, etc.
+* Even if you manage to find exercises and stretches that relieve your symptoms, it is not unlikely that aspects of your lifestyle could continue to re-injure you if you don't make changes. In this section I try to sort out some of the latest advice about  things like standing vs. sitting, types of beds, etc.
 
 Treating hip pain
 
 * Depending on the problem you are facing (see the section on "diagnosing your hip pain" above), you will want to focus on different exercises, and perhaps avoid or alter some until you are stronger or looser in the affected area. On the other hand, if the problem is in your hips there is a lot of overlap in the kinds of exercises and stretches that are recommended. I have personally found it useful to carefully try all of them and see what feels good and what does not, working backwards from that info towards a diagnosis as well. 
 * In addition to stretches and exercises, I have a section on "quick fixes" that can be useful if you are suddenly uncomfortable after sitting, walking, or can't get to sleep at night. 
-* Stretches for hip pain
+* <span class="roam-page">[[[Stretches for hip pain]]](stretches-for-hip-pain)</span>
 * <span class="roam-page">[[[Exercises for hip pain]]](exercises-for-hip-pain)</span>
-* Quick fixes for hip pain 
+* <span class="roam-page">[[[Quick fixes for hip pain]]](quick-fixes-for-hip-pain)</span> 
 
 <div markdown="1" class="roam-backrefs">
 

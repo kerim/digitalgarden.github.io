@@ -4,7 +4,7 @@ date: 2021-05-11T10:42:13.173000
 
 ---
 
-<span class="roam-blockref">Even if you manage to find exercises and stretches that relieve your symptoms, it is not unlikely that aspects of your lifestyle could continue to re-injure you if you don't make changes. In this section I try to sort out some of the latest advice about  things like standing vs. sitting, etc.</span>
+<span class="roam-blockref">Even if you manage to find exercises and stretches that relieve your symptoms, it is not unlikely that aspects of your lifestyle could continue to re-injure you if you don't make changes. In this section I try to sort out some of the latest advice about  things like standing vs. sitting, types of beds, etc.</span>
 
 ## Sitting vs. Hip Flexors
 
@@ -14,10 +14,17 @@ Our bodies tend to adapt to the positions that we put them in the most. Since th
 
 "The solution to sitting isn’t to stand, though it helps. In fact, according to the findings of a 2015 consensus panel on the topic, we need to be on our feet two to four hours while at work. But the real solution is to move. All day. The stillness is what’s killing us. We should be pacing the hallways and climbing stairs and squatting and lunging and stretching." ([source](https://www.theguardian.com/us-news/2019/feb/06/exercise-health-move-all-day-standing-desk))
 
+## The Ideal Bed
+
+Bed firmness? Sleeping on hard surfaces or soft surfaces? Effect on hips, shoulders, and back?
+
+<figure class="roam-video"><iframe class="roam-iframe" src="https://www.youtube.com/embed/UQyLA40TCgU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></figure>
+
 <div markdown="1" class="roam-backrefs">
 
-## 1 Reference
+## 2 References
 
 - [Managing Hip Pain](/digitalgarden/managing-hip-pain)
+- [Quick fixes for hip pain](/digitalgarden/quick-fixes-for-hip-pain)
 
 </div>

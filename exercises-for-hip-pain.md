@@ -66,6 +66,16 @@ After doing some work to loosen up your hip flexors, do these isometric flexion 
 
 <figure class="roam-video"><iframe class="roam-iframe" src="https://www.youtube.com/embed/m_ZPapmqeNM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></figure>
 
+## Hip Flexor Workouts
+
+Hip flexor exercises for strength - basic + beginner level
+
+<figure class="roam-video"><iframe class="roam-iframe" src="https://www.youtube.com/embed/mWOWpBGGY4k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></figure>
+
+Fixing Anterior Pelvic Tilt (FULL ROUTINE)
+
+<figure class="roam-video"><iframe class="roam-iframe" src="https://www.youtube.com/embed/tp8KPPffIJw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></figure>
+
 <div markdown="1" class="roam-backrefs">
 
 ## 1 Reference
