@@ -38,7 +38,7 @@ kettle ball swings
 
 Easier version with progression if that is too hard:
 
-https://youtu.be/ZWCzj64_EAA
+<figure class="roam-video"><iframe class="roam-iframe" src="https://www.youtube.com/embed/ZWCzj64_EAA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></figure>
 
 Article on [the Hip Airplane](https://squatuniversity.com/2018/05/06/the-hip-airplane/) by Squat University
 
