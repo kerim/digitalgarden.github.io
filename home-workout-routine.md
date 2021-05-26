@@ -6,13 +6,15 @@ date: 2021-05-26T08:36:47.600000
 
 As gyms are closed here in Taiwan during our first COVID-19 outbreak, I've had to adjust my gym routine for workout out with resistance bands at home. It took me a little while to figure out how to do each of my usual exercises with bands, so I thought I'd share what I learned. 
 
+The experience of using bands is different from working out with weights at the gym. The greatest tension is at the end of the movement and on the release, not so much at the start of the movement like with weights. It might feel easier at first, but it often hits you harder after, especially if you aren't used to it, so take it easy till you figure it out. Generally you want to make the early movement explosive and then go slow on the release.
+
 I do a four day workout cycle, in which I mix upper and lower body each day. I generally do these on Monday, Wednesday, and Friday, and do my exercises for <span class="roam-page">[[[Managing Hip Pain]]](managing-hip-pain)</span> on the other days. (With one day off each week.) 
 
 I also cycle through the exercises in a four week cycle, with decreasing reps (15, 12, 8) and higher weight for three weeks, followed by a de-load week where I do half of what I normally do, to allow my body to recover.
 
 I've not embedded the videos, so click on the links to see how each exercise is done! As usual, don't do anything here unless you know what you are doing, or have worked with a personal trainer in the past. Incorrect form can lead to injury!
 
-Note: I use the [Cross-Training Elastic Training Bands](https://www.decathlon.co.uk/search?Ntt=CROSS-TRAINING+ELASTIC+TRAINING+BAND+) from Decathlon.
+Note : I use the [Cross-Training Elastic Training Bands](https://www.decathlon.co.uk/search?Ntt=CROSS-TRAINING+ELASTIC+TRAINING+BAND+) from Decathlon.
 
 ## Day One
 
