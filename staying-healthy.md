@@ -20,6 +20,8 @@ I've battled with chronic hip pain for years, here are some resources that were 
 
 <span class="roam-page">[[[Managing Hip Pain]]](managing-hip-pain)</span>
 
+<span class="roam-page">[[[Home Workout Routine]]](home-workout-routine)</span>
+
 <div markdown="1" class="roam-backrefs">
 
 ## 2 References

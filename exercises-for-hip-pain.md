@@ -42,6 +42,12 @@ Easier version with progression if that is too hard:
 
 Article on [the Hip Airplane](https://squatuniversity.com/2018/05/06/the-hip-airplane/) by Squat University
 
+## Pallof Press Lateral Walk
+
+Turns out this (along with side planks) is really great for core stability and that helps one's hips as well.
+
+<figure class="roam-video"><iframe class="roam-iframe" src="https://www.youtube.com/embed/GYDLHNb-2pA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></figure>
+
 ## Pistol Squat
 
 [6 Steps To Perfecting Your Pistol Squat – Squat University](https://squatuniversity.com/2016/06/24/6-steps-to-perfecting-your-pistol-squat/)
@@ -75,6 +81,12 @@ Hip flexor exercises for strength - basic + beginner level
 Fixing Anterior Pelvic Tilt (FULL ROUTINE)
 
 <figure class="roam-video"><iframe class="roam-iframe" src="https://www.youtube.com/embed/tp8KPPffIJw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></figure>
+
+## Hip Mobility Routine
+
+I've found this routine very helpful for increasing mobility in my hips:
+
+<figure class="roam-video"><iframe class="roam-iframe" src="https://www.youtube.com/embed/BqF90pMpjb4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></figure>
 
 <div markdown="1" class="roam-backrefs">
 

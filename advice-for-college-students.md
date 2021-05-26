@@ -16,6 +16,10 @@ How to make an [argument](https://writingcenter.unc.edu/tips-and-tools/argument/
 
 [The Six Evil Geniuses of Essay Writing](https://faculty.georgetown.edu/kingch/Six_Evil_Geniuses.htm) 
 
+[The power of a great introduction](https://ed.ted.com/lessons/the-power-of-a-great-introduction-carolyn-mohr)
+
+
+
 <div markdown="1" class="roam-backrefs">
 
 ## 2 References

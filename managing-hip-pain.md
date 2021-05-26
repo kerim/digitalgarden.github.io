@@ -32,8 +32,9 @@ Treating hip pain
 
 <div markdown="1" class="roam-backrefs">
 
-## 1 Reference
+## 2 References
 
 - [Staying healthy](/digitalgarden/staying-healthy)
+- [Home Workout Routine](/digitalgarden/home-workout-routine)
 
 </div>
